@@ -1,2 +1,2 @@
 # Gojira
-2017 McMaster SumoBots
+2018 McMaster SumoBots
